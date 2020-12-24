@@ -1,6 +1,6 @@
 # NP_hw3
 
-# [Readme]
+[Readme]
 > 學號: 407410029
 > 姓名: 鍾意涓
 > 環境: Mac OSX
